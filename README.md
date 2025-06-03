@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-![isk](\github-header-image.png)
+![isk](/github-header-image.png)
 =======
 # Hi there, I'm Iskandar Abdul Azis Saputra! 👋
 >>>>>>> cd9f4573d3bc0cf9db82cee31478ca6684467386
