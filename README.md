@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="dist/github-contribution-grid-snake.svg" alt="Snake animation of my GitHub contributions" />
-</div>
-
 # Hi there, I'm Iskandar Abdul Azis Saputra! 👋
 
 I'm a final-year student at Universitas Sebelas Maret, majoring in Informatics, with a strong passion for **computer networking, IT, and system integration.** [cite: 2] My experience as a Teaching Assistant for Computer Networks has equipped me with skills in network configuration, troubleshooting, and providing technical guidance using tools like Cisco Packet Tracer. [cite: 3] I'm eager to apply my knowledge and collaborative spirit to real-world challenges.
@@ -69,12 +65,3 @@ I'm a final-year student at Universitas Sebelas Maret, majoring in Informatics, 
 - **Email:** [andar.alfath@gmail.com](mailto:andar.alfath@gmail.com) [cite: 1]
 
 ---
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&rank_icon=github" alt="My GitHub Stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=moltengold" alt="Top Languages" />
-  </a>
-</p>
