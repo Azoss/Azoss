@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 ![isk](/github-header-image.png)
 =======
-# Hi there, I'm Iskandar Abdul Azis Saputra! 👋
->>>>>>> cd9f4573d3bc0cf9db82cee31478ca6684467386
-
 I'm a final-year student at Universitas Sebelas Maret, majoring in Informatics, with a strong passion for **computer networking, IT, and system integration.** [cite: 2] My experience as a Teaching Assistant for Computer Networks has equipped me with skills in network configuration, troubleshooting, and providing technical guidance using tools like Cisco Packet Tracer. [cite: 3] I'm eager to apply my knowledge and collaborative spirit to real-world challenges.
 
 ---
